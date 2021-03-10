@@ -1,4 +1,4 @@
-// [FR] Ce fichier et le premier programme executé, il permet de lancer l'execution des modules
+// [FR] Ce fichier et le premier programme executÃ©, il permet de lancer l'execution des modules
 // [EN] This file is the first executed program, it able to launch module.
 
 // By SPinti Software
@@ -83,11 +83,11 @@ txt/
 txt/ You can change your NetID with 'sys/ /netid {Your Pseudo}'
 txt/   
 txt/ 
-txt/ Hello ADMIN :-)
+txt/ Hello ADMIN, Welcome to CPCDOS Beta 1.5
 txt/ 
 
 
-// [FR] Demarrer l'OS numéro 0. Ne pas oublier de supprimer la ligne 'GUI/ /CONSOLE'
+// [FR] Demarrer l'OS numÃ©ro 0. Ne pas oublier de supprimer la ligne 'GUI/ /CONSOLE'
 // [EN] Starting OS number 0. Not forget to delete 'GUI/ /CONSOLE' line
 rem/ demarrer/
 
